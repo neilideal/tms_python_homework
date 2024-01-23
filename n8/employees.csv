@@ -1,0 +1,6 @@
+name,birthday,height,weight,car,languages
+John Smith,02.10.1990,175,76.5,True,C++, Python
+Alexey Alexeev,05.06.1986,197,101.2,False,Pascal, Delphi
+Maria Ivanova,28.08.1998,165,56.1,True,C#, C++, C
+Nile Crownis,08.11.2000,173,73,False,"['python', 'kotlin', 'c++']"
+Aleh Hancharou,13.01.2001,183,84,False,"['python', 'rust']"
